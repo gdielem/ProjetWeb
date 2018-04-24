@@ -1,5 +1,5 @@
 <?php
-
+  //coucou
    session_start();
 
    $time_start = microtime(true);
